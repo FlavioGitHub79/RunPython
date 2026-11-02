@@ -1,0 +1,5 @@
+Um aplicativo Windows para executar scripts python informando parâmetros para execução
+Cada script python pode ter N parâmetros para execução a ideia e fazer aum app Windows que eu carrego o script python e eo app identifica os parâmetros necessários
+para execução e cria uma janela com esses parâmetros 
+no scrit python precisa ter algum identicados nos campos que deveão ser parâmetros para quer o app possa identificar o que criar na tela quando carregar o script 
+
